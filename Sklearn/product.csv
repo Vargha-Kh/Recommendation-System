@@ -1,0 +1,51 @@
+product_id,product_name,category,brand,price,color,size
+1,"T-shirt_Jackson, Burnett and Browning_1",T-shirt,"Jackson, Burnett and Browning",531.6316837676758,OrangeRed,Small
+2,"T-shirt_Roman, Case and Gross_2",T-shirt,"Roman, Case and Gross",556.941839777601,SlateGray,Large
+3,"Pants_Nunez, Sanders and Ortiz_3",Pants,"Nunez, Sanders and Ortiz",74.05328015432585,GoldenRod,Large
+4,T-shirt_Garcia-Walker_4,T-shirt,Garcia-Walker,801.8252182809507,Aquamarine,Medium
+5,Pants_Mccarthy PLC_5,Pants,Mccarthy PLC,72.91332442587478,Tomato,Large
+6,T-shirt_Houston-Brooks_6,T-shirt,Houston-Brooks,330.6957524809403,LightGray,Large
+7,Pants_Bean-Cummings_7,Pants,Bean-Cummings,377.82867797061965,Gainsboro,Small
+8,T-shirt_Barnett Inc_8,T-shirt,Barnett Inc,134.78510427263168,Chocolate,Large
+9,T-shirt_Ellis Inc_9,T-shirt,Ellis Inc,388.54308403303907,LavenderBlush,Small
+10,"Shirts_Gregory, Oneill and Woods_10",Shirts,"Gregory, Oneill and Woods",684.4059903977604,OliveDrab,Large
+11,Pants_Martinez PLC_11,Pants,Martinez PLC,41.447511076322385,Gainsboro,Medium
+12,T-shirt_Williams Group_12,T-shirt,Williams Group,761.4406778960008,DarkSalmon,Large
+13,Shirts_Cunningham Group_13,Shirts,Cunningham Group,516.9552259916626,DimGray,Large
+14,Shorts_Herman and Sons_14,Shorts,Herman and Sons,717.0247187222548,DarkOliveGreen,Large
+15,Pants_Pena PLC_15,Pants,Pena PLC,805.9939878467907,ForestGreen,Small
+16,T-shirt_Rodriguez PLC_16,T-shirt,Rodriguez PLC,108.23154186989927,FloralWhite,Large
+17,Shorts_Coleman LLC_17,Shorts,Coleman LLC,199.93438848236278,LightSeaGreen,Large
+18,"Shirts_Ross, Snyder and Greene_18",Shirts,"Ross, Snyder and Greene",315.54006428679685,CadetBlue,Small
+19,Shorts_Cook Inc_19,Shorts,Cook Inc,936.9068356626254,IndianRed,Medium
+20,T-shirt_Morales LLC_20,T-shirt,Morales LLC,803.059152932814,PaleGoldenRod,Small
+21,T-shirt_Simon-Adams_21,T-shirt,Simon-Adams,517.7132913179453,MediumVioletRed,Small
+22,T-shirt_Harrell-Guzman_22,T-shirt,Harrell-Guzman,21.151061200903897,Coral,Large
+23,"Shirts_Johnston, Myers and Mclaughlin_23",Shirts,"Johnston, Myers and Mclaughlin",393.5200570011131,DarkOliveGreen,Medium
+24,"Shorts_Campos, Ruiz and Delacruz_24",Shorts,"Campos, Ruiz and Delacruz",345.05895525152897,HotPink,Medium
+25,Shirts_Davis and Sons_25,Shirts,Davis and Sons,421.44417757256656,AntiqueWhite,Small
+26,Shirts_Hoffman-Martinez_26,Shirts,Hoffman-Martinez,210.4868035850784,Yellow,Medium
+27,"Shirts_Campbell, Burns and Mann_27",Shirts,"Campbell, Burns and Mann",694.2494887267753,OldLace,Small
+28,T-shirt_Smith-Lee_28,T-shirt,Smith-Lee,823.8278117249127,LimeGreen,Medium
+29,T-shirt_Keller-Chang_29,T-shirt,Keller-Chang,299.2798517913319,Pink,Large
+30,T-shirt_Bailey-Morris_30,T-shirt,Bailey-Morris,23.314941578246042,Pink,Small
+31,Shorts_Harper-Jones_31,Shorts,Harper-Jones,81.5465782672557,Bisque,Medium
+32,Shirts_Gonzalez Group_32,Shirts,Gonzalez Group,672.4693224732473,YellowGreen,Medium
+33,Shirts_Simmons-Clark_33,Shirts,Simmons-Clark,724.7710813716617,Khaki,Medium
+34,Shirts_Hughes-Vaughan_34,Shirts,Hughes-Vaughan,475.0818296958325,Tan,Large
+35,Shorts_Ray-Holland_35,Shorts,Ray-Holland,844.7676186269042,OldLace,Medium
+36,Shirts_Martin-Goodman_36,Shirts,Martin-Goodman,947.8449640013475,DeepSkyBlue,Medium
+37,Shorts_Walton-Levy_37,Shorts,Walton-Levy,741.8676081254206,LightYellow,Large
+38,Shirts_Greer-Harper_38,Shirts,Greer-Harper,168.96603800584174,Wheat,Small
+39,"T-shirt_Mitchell, Burton and Knox_39",T-shirt,"Mitchell, Burton and Knox",974.1290366012108,LightGray,Medium
+40,"T-shirt_Hall, Berry and Gutierrez_40",T-shirt,"Hall, Berry and Gutierrez",772.7867635553375,Tomato,Small
+41,Shirts_Bond-Smith_41,Shirts,Bond-Smith,465.8485257993455,Coral,Medium
+42,Pants_Martin Group_42,Pants,Martin Group,605.3944458245118,MediumTurquoise,Small
+43,Shirts_Walsh-Lopez_43,Shirts,Walsh-Lopez,273.4367099986707,Thistle,Small
+44,T-shirt_Hill-Williams_44,T-shirt,Hill-Williams,873.586793506286,SandyBrown,Medium
+45,Pants_Holland-Howell_45,Pants,Holland-Howell,444.675068943561,IndianRed,Small
+46,"T-shirt_Park, Mack and Mejia_46",T-shirt,"Park, Mack and Mejia",858.7644488972896,BlanchedAlmond,Large
+47,"Pants_Garcia, Hanson and Brown_47",Pants,"Garcia, Hanson and Brown",15.656795044031682,LightSteelBlue,Small
+48,Shirts_Elliott-Conley_48,Shirts,Elliott-Conley,217.52052506175556,MediumSlateBlue,Medium
+49,Pants_Jones-Gibson_49,Pants,Jones-Gibson,818.2384160236262,LemonChiffon,Large
+50,"T-shirt_Gonzalez, Chavez and Garcia_50",T-shirt,"Gonzalez, Chavez and Garcia",651.8932709815597,BlueViolet,Large

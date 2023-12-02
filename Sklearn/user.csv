@@ -1,0 +1,51 @@
+user_id,age,gender,location,occupation
+1,30,Male,West Gloriaborough,Records manager
+2,58,Male,Sheppardstad,"Development worker, community"
+3,59,Male,Adamstown,"Surveyor, planning and development"
+4,60,Male,Mcdonaldberg,Energy engineer
+5,50,Male,Port Sandra,"Investment banker, corporate"
+6,49,Female,Brittanyfurt,Illustrator
+7,24,Male,Turnerborough,Risk analyst
+8,48,Male,Harrisonchester,Phytotherapist
+9,37,Female,Port Kennethview,Biomedical scientist
+10,42,Male,North Michael,Health service manager
+11,23,Female,Port Matthew,Film/video editor
+12,40,Male,West Heatherstad,"Education officer, environmental"
+13,58,Female,Sanchezborough,Television camera operator
+14,24,Female,Port Heather,Naval architect
+15,44,Female,East Erica,Museum/gallery curator
+16,45,Male,Marktown,Social worker
+17,43,Male,New Bernard,"Programmer, systems"
+18,42,Male,Christopherville,Seismic interpreter
+19,57,Female,South Natasha,"Pharmacist, hospital"
+20,58,Female,West Monicaport,Pensions consultant
+21,39,Male,East Catherine,Product designer
+22,47,Male,Melaniemouth,Special educational needs teacher
+23,54,Male,Johnsonside,Architectural technologist
+24,43,Male,Obrienborough,"Engineer, maintenance"
+25,33,Male,Port Susanhaven,Arts administrator
+26,29,Male,West Marychester,Tourism officer
+27,24,Male,Christopherberg,Geophysicist/field seismologist
+28,29,Male,Lake Alexisshire,"Administrator, Civil Service"
+29,33,Female,North Nancy,"Buyer, retail"
+30,60,Female,Hicksfort,Broadcast presenter
+31,31,Male,Thomasside,Sports coach
+32,58,Female,Hendersonburgh,"Engineer, chemical"
+33,28,Male,North Jessicastad,"Lecturer, further education"
+34,42,Male,Camposton,Commercial/residential surveyor
+35,60,Female,East Ronaldfurt,Agricultural engineer
+36,54,Female,Obrienmouth,Artist
+37,38,Male,Meltonport,"Buyer, retail"
+38,29,Male,Gregoryview,Technical author
+39,24,Male,Lake Karenmouth,"Pharmacist, community"
+40,27,Female,Russellberg,"Engineer, chemical"
+41,55,Female,New Morganfort,Statistician
+42,51,Male,South Kristen,Microbiologist
+43,22,Female,Underwoodfort,Merchant navy officer
+44,35,Male,Danielborough,Seismic interpreter
+45,22,Male,Kevinchester,Hydrographic surveyor
+46,53,Male,Tannerfort,Occupational therapist
+47,44,Male,Rodriguezfort,Paediatric nurse
+48,37,Male,New Jennifer,"Teacher, early years/pre"
+49,26,Male,Davilabury,Toxicologist
+50,52,Female,Alyssafurt,Midwife
