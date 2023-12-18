@@ -10,7 +10,6 @@ This repository contains an implementation of a Recommendation System, designed 
   - Category Filtering
   - Collaborative Filtering
   - Deep Recommendation system
-- Examples
 
 <br/>
 
@@ -88,7 +87,7 @@ collab_recommender.collaborative_recommend(user_id=2)
 python Tensorflow/train.py
 ```
 
-#### inference process: specify the directory of product_file, users_file, ratings_file and start the training.
+#### inference process: specify the directory of product_file, users_file, ratings_file and get the recommend.
 
 ```
 python Tensorflow/predict.py
